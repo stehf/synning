@@ -1,0 +1,44 @@
+[
+  {
+    "id": 0,
+    "name": "Sunday",
+    "hexCode": "#8B4513",
+    "rgb": "139  69  19"
+  },
+    {
+    "id": 1,
+    "name": "Monday",
+    "hexCode": "#0000CD",
+    "rgb": "  0   0 205"
+  },
+    {
+    "id": 2,
+    "name": "Tuesday",
+    "hexCode": "#FFFF00",
+    "rgb": "255 255   0"
+  },
+    {
+    "id": 3,
+    "name": "Wednesday",
+    "hexCode": "#BDB76B",
+    "rgb": "189 183 107"
+  },
+    {
+    "id": 4,
+    "name": "Thursday",
+    "hexCode": "#DAA520",
+    "rgb": "218 165  32"
+  },
+    {
+    "id": 5,
+    "name": "Friday",
+    "hexCode": "#191970",
+    "rgb": "25  25 112"
+  },
+    {
+    "id": 6,
+    "name": "Saturday",
+    "hexCode": "#FFD700",
+    "rgb": "255 215   0"
+  }
+]
