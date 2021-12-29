@@ -25,7 +25,9 @@
 <style>
   h3 {
     color:  white;
+    font-size: 10em;
     margin:  0;
+    text-shadow: 2px 2px 4px #000000;
   }
   .weekday {
     background-color: v-bind(todayColor);
